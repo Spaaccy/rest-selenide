@@ -1,0 +1,1 @@
+{"uuid":"8b6d9079-7404-4095-9dcb-f88d87ded4f8","name":"ge.swooptest.OfferTests","children":["db7f729c-2962-4112-a035-5a1c51b53e9a"],"befores":[{"name":"setUpSteps","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1718987061486,"stop":1718987061614}],"afters":[],"start":1718987061485,"stop":1718987073073}

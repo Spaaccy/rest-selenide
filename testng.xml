@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Swoop and Sauce demo tests">
+    <test name="Rest API tests">
+        <groups>
+            <run>
+                <include name="RestTest"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="ge.restfulbookertest.RestfulBookerAPI"/>
+        </classes>
+    </test>
+    <test name="Swoop Tests">
+        <groups>
+            <run>
+                <include name="SwoopTest"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="ge.swooptest.OfferTests"/>
+        </classes>
+    </test>
+</suite>
+
