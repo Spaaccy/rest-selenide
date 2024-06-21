@@ -1,1 +1,0 @@
-{"uuid":"e68ad380-72a6-4385-b305-28b698cfa733","name":"Rest API tests","children":["8683745f-4b32-483d-8389-6bd6b46a7e8d"],"befores":[{"name":"initializeToken","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1718986914021,"stop":1718986916073}],"afters":[],"start":1718986914007,"stop":1718986916155}

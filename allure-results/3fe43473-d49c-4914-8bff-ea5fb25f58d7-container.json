@@ -1,1 +1,0 @@
-{"uuid":"3fe43473-d49c-4914-8bff-ea5fb25f58d7","name":"ge.restfulbookertest.RestfulBookerAPI","children":["8683745f-4b32-483d-8389-6bd6b46a7e8d"],"befores":[{"name":"initiateSteps","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1718986916084,"stop":1718986916090}],"afters":[],"start":1718986914007,"stop":1718986916192}
